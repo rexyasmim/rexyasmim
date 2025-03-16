@@ -3,7 +3,7 @@
 
 
 👩🏾‍🎓 Studying Computer Engineering at Uniara, 7th semester <br>
-🌱 I’m currently learning java, databases and python<br>
+🌱 I’m currently learning Java, Python and SQL databases<br>
 😄 Pronouns: she/her
 
   ###
