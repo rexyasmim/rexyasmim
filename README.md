@@ -1,4 +1,4 @@
-## Oii eu sou a Yasmim
+## Oii eu sou a Yasmim🌸
 
 
 
@@ -14,13 +14,19 @@
 
 <h4 align="left">Programming Languages:</h4>
 
-###
-  
- <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50" alt="java logo"  />
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
 </div>
+
+###
           
 
 
@@ -36,4 +42,14 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="55" height="40" alt="instagram logo"  />
   </a>
 </div>
+
+###
+
+<h3 align="left"> 🎯 Goal: Learn more and work in tech  
+
+###
+
+<img align="left" height="500" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeG5hc25wOHcyYXVudGdhd3plaDZuc3F4aXp2bnN5OTZ1dXlhZDI1MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LMcB8XospGZO8UQq87/giphy.gif"  />
+
+###
 
