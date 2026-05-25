@@ -2,8 +2,8 @@
 
 
 
-👩🏾‍🎓 Studying Computer Engineering at Uniara, 7th semester <br>
-🌱 I’m currently learning Java, Python and SQL databases<br>
+👩🏾‍🎓 Studying Computer Engineering at Uniara, 9th semester <br>
+🌱 I’m currently learning Data Science<br>
 😄 Pronouns: she/her
 
   ###
